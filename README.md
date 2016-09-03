@@ -1,2 +1,2 @@
 # docker-templates-DVR
-HRHomeRunDVR
+HDHomeRunDVR
